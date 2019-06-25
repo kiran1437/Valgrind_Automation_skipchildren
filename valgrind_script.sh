@@ -27,7 +27,7 @@ if [[ "MW_Process" != "$1" && "APP_Process" != "$1" && "CA_Process" != "$1" && "
         exit
 fi
 
-echo "These files will be skip_processped \n $skip_process"
+echo "These files will be skippped \n $skip_process"
 
 #mkdir /host
 #mount /dev/sdb1 /host/
